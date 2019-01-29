@@ -72,6 +72,25 @@
 || exit: Exits the program.	Example: exit
 || help: Shows program usage instructions.	Example: help
 || ===================================================
+|| Enter command: || [Command entered:  history]
+||   sfdfd
+|| 1 records found!
+|| ===================================================
+|| Enter command: || [Command entered:  history]
+||   sfdfd
+||   history
+|| 2 records found!
+|| ===================================================
+|| Enter command: || [Command entered:  clear]
+|| Address book has been cleared!
+|| ===================================================
+|| Enter command: || [Command entered:  history]
+||   sfdfd
+||   history
+||   history
+||   clear
+|| 4 records found!
+|| ===================================================
 || Enter command: || [Command entered:  clear]
 || Address book has been cleared!
 || ===================================================

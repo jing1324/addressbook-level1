@@ -6,6 +6,20 @@
   sfdfd
 
 ##########################################################
+# test history command
+##########################################################
+
+  # should have record of invalid command
+  history
+
+  #should have record of last valid command(itself)
+  history
+
+  #should have record of a normal command other than itself
+  clear
+  history
+
+##########################################################
 # clean and check state
 ##########################################################
 
